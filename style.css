@@ -3,8 +3,19 @@
     background-color:saddlebrown;  
 }
 
-#everything {
+* {
     background-color: navy;
     color: white;
 }
 
+a {
+    color:aqua;
+}
+
+#blue {
+    color:aqua;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
